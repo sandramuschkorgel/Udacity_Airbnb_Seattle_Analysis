@@ -18,7 +18,7 @@ jupyter notebook
 ```
 
 ## Read more
-[Click here for my substack blog post](https://sandramuschkorgel.substack.com/p/)
+[Click here for my substack blog post](https://sandramuschkorgel.substack.com/p/why-airbnb-pricing-is-opaque)
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
