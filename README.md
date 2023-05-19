@@ -1,4 +1,4 @@
-# Seattle Airbnb Analysis
+# Seattle Airbnb Analysis 🏡 🛌
 Airbnb is often considered an alternative to hotels, lodgings, or any other traveller's accommodation. Though this is true, Airbnb listings greatly differ due to their individuality. Each listing has a different host, location, service, amenities and the like - making each of them a unique experience. The underlying notebook tries to shed some light on which features influence listing prices the most.
 
 ## Description
